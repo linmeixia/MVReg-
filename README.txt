@@ -30,6 +30,7 @@ The package supports multiple Lasso-type regularizations, as referenced below:
 
 Version: October 2024
 
+
 If you use this code, please consider citing:
 
 Meixia Lin, Ziyang Zeng, and Yangjing Zhang, “Multiple regression for matrix and vector predictors: Models, theory, algorithms, and beyond”, Electronic Journal of Statistics, 2024, Vol. 18(2), pp. 5563-5600.
