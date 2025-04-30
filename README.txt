@@ -32,16 +32,4 @@ Version: October 2024
 
 If you use this code, please consider citing:
 
-**BibTeX Citation**
-```bibtex
-@article{lin2024multiple,
-  title={Multiple regression for matrix and vector predictors: Models, theory, algorithms, and beyond},
-  author={Lin, Meixia and Zeng, Ziyang and Zhang, Yangjing},
-  journal={Electronic Journal of Statistics},
-  volume={18},
-  number={2},
-  pages={5563--5600},
-  year={2024},
-  publisher={The Institute of Mathematical Statistics and the Bernoulli Society}
-}
-}
+Meixia Lin, Ziyang Zeng, and Yangjing Zhang, “Multiple regression for matrix and vector predictors: Models, theory, algorithms, and beyond”, Electronic Journal of Statistics, 2024, Vol. 18(2), pp. 5563-5600.
